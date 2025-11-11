@@ -1,0 +1,6 @@
+networkx
+pandas
+matplotlib
+seaborn
+python-louvain
+jupyter
