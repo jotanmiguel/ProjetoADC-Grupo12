@@ -1,0 +1,21 @@
+The report will include 
+
+    1- A literature review and previous efforts for modelling and using the full dataset
+    2- A description of the procedure for creating the subset and a justification of the criterion used.
+    3- A thorough analysis of the network subset with the methods described in class. The analysis should provide, for each computed statistic/element of study, an interpretation, eventually comparing to results of the full network in case it exists in the literature
+
+1- Literature
+R.
+
+2- Subsets:
+	Apenas considerar interações do tipo resposta a pergunta [user u answered user v's question at time t (in the graph sx-mathoverflow-a2q)]
+	Apenas considerar interações que involvam pelo menos um user com um minimo de interações total (50 provisoriamente)
+	Apenas considerar interações entre 2010 e 2012
+
+3- Methodos de analise:
+	...
+
+
+
+Notas:
+	explorar as comunidades que vamos encontrar nos datasets (perguntas com muitas respostas e conversas entre membros ativos)
