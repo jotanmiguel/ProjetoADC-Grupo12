@@ -13,9 +13,11 @@ R.
 	Apenas considerar interações entre 2010 e 2012
 
 3- Methodos de analise:
-	...
-
-
+	Small-worldness and centrality
+	number of nodes, links, density and average degree
+	degree distribution, average path length and clustering coefficient
+	connectedness and robustness
+	classes and communities
 
 Notas:
 	explorar as comunidades que vamos encontrar nos datasets (perguntas com muitas respostas e conversas entre membros ativos)
