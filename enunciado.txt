@@ -21,3 +21,4 @@ R.
 
 Notas:
 	explorar as comunidades que vamos encontrar nos datasets (perguntas com muitas respostas e conversas entre membros ativos)
+	supostamente o mathoverflow é para "experts". será que os experts têm o mesmo comportamento como em outras comunidades? quora, reddit, stackoverflo, etc...
